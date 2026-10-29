@@ -1,5 +1,5 @@
 # AI Customer Support Agent | RAG & Automation
-
+![AI Customer Support Agent](AI%20Customer%20Support%20Agent.png)
 ### Intelligent Customer Support Built with n8n
 
 ## Project Overview
